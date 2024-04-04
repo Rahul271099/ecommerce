@@ -1,0 +1,23 @@
+.main_logo {
+  width: 10rem;
+}
+.logo {
+  width: 100%;
+  height: 100%;
+}
+.navWrapper {
+  padding: 2rem;
+  height: 80px;
+}
+.nav_items li {
+  list-style: none;
+}
+.navlink {
+  text-decoration: none;
+  color: #0d0d0d;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.section_left {
+  font-size: 1.5rem;
+}
